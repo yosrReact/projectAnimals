@@ -5,3 +5,5 @@ lapin
 ours
 éléphant
 chien
+azerty
+azerty
