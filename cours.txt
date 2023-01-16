@@ -1,2 +1,3 @@
 cours sur git
 cours sur js
+cours sur soft skills
